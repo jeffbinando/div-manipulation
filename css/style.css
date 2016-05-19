@@ -1,0 +1,4 @@
+/* CSS Document */
+.clear			{clear:both;}
+#block			{width:100px; height:100px; border: #333 solid 1px; transition:1s all; margin:0 auto;}
+.swatch			{height:20px; width:20px; margin:0px 10px 0px 10px; float:left; display:block; border:solid 1px #333;}
